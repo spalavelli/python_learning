@@ -1,0 +1,7 @@
+# taking three inputs
+a=input("enter number of students: ")
+b=input("enter number of boys: ")
+c=input("number of girls: ")
+print("totla number fo students: ",a)
+print("number of boys: ",b)
+print("number of girls: ",c)

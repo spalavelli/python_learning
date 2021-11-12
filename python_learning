@@ -1,0 +1,10 @@
+#taking two inputs 
+x,y =input("enter two values: ").split(',')
+print("number of boys: ",x)
+print("number of girls: ",y)
+
+# taking three inputs 
+a,b,c = input("enter three values: ")
+print("total number of students: ",a)
+print("number of boys: ",b)
+print("number of girls: ",c)
